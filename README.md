@@ -2,6 +2,6 @@
 
 <ul>
 <li>Mads Mikkelsen
-<li>Jon Bernthal
+<li>Jon Bernthal 2.1
 <li>Tom Welling
 </ul>
